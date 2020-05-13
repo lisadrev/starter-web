@@ -2,6 +2,7 @@
 # The humans responsible & technology colophon
 
 # TEAM
+    Jason Taylor Jason@git.training @awesomejt
 
     <name> -- <role> -- <twitter>
 
